@@ -1,0 +1,36 @@
+
+body {
+    background-image: none;
+    background-repeat: repeat;
+    font-family: "", serif;
+  }
+  h1 {
+    color: rgb(18, 62, 92);
+    font-weight: 300px;
+  }
+  
+  .navbar-light .navbar-brand {
+    color: white;
+    background-color: rgb(18, 62, 92);
+  }
+  .navbar-light .navbar-nav .nav-link li {
+    color: lightgrey;
+  }
+ 
+  .container {
+    margin-top: 50px;
+  }
+  .container .jumbotron {
+    background-color: white;
+  }
+  footer {
+    text-align: center;
+    border-top: teal solid 5px;
+    background-color: lightgrey;
+    color: rgb(29, 25, 25);
+    height: 50px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    position: sticky;
+  }
