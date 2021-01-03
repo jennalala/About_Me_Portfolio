@@ -1,6 +1,6 @@
 
 body {
-    background-image: url("../ignasi_pattern_s.png");
+    background-image: url("images\dramatic_sunset_sky_192371.jpg");
     background-repeat: repeat;
     font-family: "Merriweather", serif;
   }
@@ -21,7 +21,7 @@ body {
     margin-top: 50px;
   }
   .container .jumbotron {
-    background-color: white;
+    background-color: teal;
   }
   footer {
     text-align: center;
