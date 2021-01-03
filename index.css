@@ -1,9 +1,12 @@
 
 body {
-    background-image: none;
-    background-repeat: repeat;
-    font-family: "", serif;
-  }
+    background-image: url("images/water-color-background.png");
+    background-repeat: no-repeat;
+    /* background-color: #cccccc; */
+    /* font-family: "", serif; */
+}
+  
+
   h1 {
     color: rgb(18, 62, 92);
     font-weight: 300px;
